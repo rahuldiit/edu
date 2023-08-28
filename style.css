@@ -1,0 +1,85 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.header{
+    width: 100%;
+    height: 90px;
+    background-color: #ffffff;
+    
+}
+.logo{
+    width: 100%;
+    height: 68px;
+}
+.nav-item{
+    width: 110px;
+    text-align: center;
+}
+.nav-item a{
+    color: #000;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.slider{
+    width: 100%;
+    height: 598px;
+    background-color: #ebebeb;
+    padding: 97px 0px;
+} 
+.slider-box{
+    width: 51%;
+    height: 608px;
+    border-radius: 252px;
+    background-color: aqua;
+    overflow: hidden;
+    margin: auto;
+}
+.content-box{
+    width:80%;
+    height: 591px;  
+    margin: auto;
+    padding: 72px 0px;
+}
+.content-box h1{
+    font-size: 52px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+}
+.icon-red{
+    color:#c61919;
+    font-size: 22px;
+}
+.aboutus{
+    padding: 151px 0px;
+}
+.aboutus-mainbox{
+    width: 100%;
+    height: 450px;
+    background-color: #e8faff;
+    border-radius: 20px;
+}
+.about-imgbox{
+    width: 100%;
+    height:  450px;
+    background-color: red;
+    border-radius: 20px;
+    margin-top: -84px;
+    overflow: hidden;
+}
+.about-contentbox{
+    padding: 72px;
+}
+.about-contentbox h3{
+    color: red;
+    font-weight: 700;
+}
+.about-contentbox h2{
+    font-size: 48px;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+}
+.boxxx{
+     width: 98%;
+}
